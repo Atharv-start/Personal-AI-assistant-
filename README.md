@@ -90,14 +90,7 @@ Create a free cluster.
 
 Create a database user and whitelist your IP.
 
-Copy your connection string and paste it in .env like:
-MONGO_URI=mongodb+srv://aiuser:aipass123@cluster0.mongodb.net/ai-pam
 
-
-OpenAI API Setup
-
-Make sure you have an OpenAI API key from https://platform.openai.com
-.
 
 Update your ai/openai.js file with the correct syntax:
 
